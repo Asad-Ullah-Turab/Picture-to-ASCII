@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d/ProgrammingProjects/Picture-to-ASCII/build",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -o CMakeFiles/PICTURE-TO-ASCII.dir/main.cpp.o -c /mnt/d/ProgrammingProjects/Picture-to-ASCII/main.cpp",
+  "file": "/mnt/d/ProgrammingProjects/Picture-to-ASCII/main.cpp"
+}
+]
